@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: YOURLS 1.6\n"
-"POT-Creation-Date: 2013-02-15 13:32+0100\n"
-"PO-Revision-Date: 2013-02-15 14:43+0100\n"
+"POT-Creation-Date: 2013-02-15 15:37+0100\n"
+"PO-Revision-Date: 2013-02-15 15:46+0100\n"
 "Last-Translator: Ozh <ozh@ozh.org>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -1285,6 +1285,46 @@ msgstr ""
 #: includes/functions-plugins.php:539
 msgid "Invalid link"
 msgstr "Lien invalide"
+
+#: includes/functions.php:188
+msgid "Missing or malformed URL"
+msgstr "URL manquante ou invalide"
+
+#: includes/functions.php:202
+msgid "URL is a short URL"
+msgstr "L'URL est une URL courte"
+
+#: includes/functions.php:234
+#, php-format
+msgid "Short URL %s already exists in database or is reserved"
+msgstr ""
+"L'URL courte %s existe déjà dans la base de données ou bien est réservée"
+
+#. //translators: eg "http://someurl/ added to DB"
+#: includes/functions.php:240 includes/functions.php:268
+#, php-format
+msgid "%s added to database"
+msgstr "%s ajouté à la base de données"
+
+#. //translators: eg "http://someurl/ already exists"
+#: includes/functions.php:286
+#, php-format
+msgid "%s already exists in database"
+msgstr "%s existe déjà dans la base de données"
+
+#: includes/functions.php:336
+msgid "Link updated in database"
+msgstr "Lien mis à jour"
+
+#. //translators: "Error updating http://someurl/ (Shorturl: http://sho.rt/blah)"
+#: includes/functions.php:339
+#, php-format
+msgid "Error updating %s (Short URL: %s)"
+msgstr "Erreur lors de la mise à jour de %s (URL courte: %s)"
+
+#: includes/functions.php:345
+msgid "URL or keyword already exists in database"
+msgstr "L'URL ou le mot clé existe déjà dans la base de données"
 
 #: includes/functions.php:409
 msgid "DB config missing, or could not find DB class"
