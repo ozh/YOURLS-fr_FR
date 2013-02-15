@@ -1,5 +1,5 @@
 # Traduction française de YOURLS
-**(_aka_ French YOURLS translation)**
+**(French YOURLS translation)**
 
 
 ## Version actuelle
