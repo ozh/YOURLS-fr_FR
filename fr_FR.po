@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YOURLS 1.6\n"
 "POT-Creation-Date: 2013-02-15 15:37+0100\n"
-"PO-Revision-Date: 2013-02-16 18:27+0100\n"
+"PO-Revision-Date: 2013-02-16 18:31+0100\n"
 "Last-Translator: Léo Colombaro\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -283,7 +283,7 @@ msgstr "Pas d'URL"
 #, php-format
 msgid "%s version is too old. Ask your server admin for an upgrade."
 msgstr ""
-"La version de %s est obselète. Contactez votre administrateur serveur pour "
+"La version de %s est obsolète. Contactez votre administrateur serveur pour "
 "une mise à jour."
 
 #: admin/install.php:20
@@ -982,11 +982,11 @@ msgstr "Erreur lors de la création de la table '%s'."
 
 #: includes/functions-install.php:261
 msgid "YOURLS tables successfully created."
-msgstr "Tables pour YOURLS créées avec succès."
+msgstr "Tables des données de YOURLS créées avec succès."
 
 #: includes/functions-install.php:263
 msgid "Error creating YOURLS tables."
-msgstr "Erreur lors de la création des tables pour YOURLS."
+msgstr "Erreur lors de la création des tables de YOURLS."
 
 #. //translators: weekday
 #: includes/functions-l10n.php:752 includes/functions-l10n.php:762
