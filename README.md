@@ -25,6 +25,11 @@ Alternativement, ouvrez une *issue* (un problème?) ici, après vous être assur
 Merci d'avance :)
 
 
+## Crédits
+
+Traduction maintenue par @ozh et @LeoColomb
+
+
 ## License
 
 Faites-en ce que vous voulez.
