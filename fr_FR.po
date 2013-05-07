@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YOURLS 1.6\n"
 "POT-Creation-Date: 2013-03-27 23:02+0100\n"
-"PO-Revision-Date: 2013-03-27 23:05+0100\n"
-"Last-Translator: Ozh <ozh[at]ozh.org>\n"
+"PO-Revision-Date: 2013-05-07 13:04+0100\n"
+"Last-Translator: Leo Colombaro\n"
 "Language-Team: \n"
 "Language: Français\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.5.5\n"
 "X-Poedit-KeywordsList: yourls__;yourls_e;yourls_s;yourls_se;"
 "yourls_esc_attr__;yourls_esc_html__;yourls_x;yourls_ex;yourls_esc_attr_x;"
 "yourls_esc_html_x;yourls_n:1,2;yourls_nx:1,2;yourls_n_noop:1,2;"
@@ -140,7 +140,7 @@ msgstr[1] "%s visites"
 
 #: yourls-infos.php:426
 msgid "No traffic yet. Get some clicks first!"
-msgstr "Pas encore de trafic. Collectez quelques visites d'abord !"
+msgstr "Pas encore de trafic. Collectez quelques visites d&rsquo;abord !"
 
 #: yourls-infos.php:441
 msgid "Top 5 countries"
@@ -148,7 +148,7 @@ msgstr "5 meilleurs pays"
 
 #: yourls-infos.php:454
 msgid "Overall traffic"
-msgstr "Vue d'ensemble"
+msgstr "Vue d&rsquo;ensemble"
 
 #: yourls-infos.php:463
 msgid "No country data."
@@ -260,12 +260,12 @@ msgid ""
 "Overall, tracking <strong class=\"increment\">%1$s</strong> links, <strong>"
 "%2$s</strong> clicks, and counting!"
 msgstr ""
-"Dans l'ensemble, <strong class=\"increment\">%1$s</strong> liens, <strong>"
-"%2$s</strong> visites, et ce n'est pas fini !"
+"Dans l&rsquo;ensemble, <strong class=\"increment\">%1$s</strong> liens, "
+"<strong>%2$s</strong> visites, et ce n&rsquo;est pas fini !"
 
 #: admin/index.php:283
 msgid "No URL"
-msgstr "Pas d'URL"
+msgstr "Pas d&rsquo;URL"
 
 #: admin/install.php:13 admin/install.php:16
 #, php-format
@@ -287,9 +287,9 @@ msgid ""
 "Could not write file <tt>.htaccess</tt> in YOURLS root directory. You will "
 "have to do it manually. See <a href=\"http://yourls.org/htaccess\">how</a>."
 msgstr ""
-"Impossible d'écrire le fichier <tt>.htaccess</tt> dans le répertoire racine "
-"de YOURLS. Vous devrez le faire manuellement. <a href=\"http://yourls.org/"
-"htaccess\">Consulter la méthodologie</a>."
+"Impossible d&rsquo;écrire le fichier <tt>.htaccess</tt> dans le répertoire "
+"racine de YOURLS. Vous devrez le faire manuellement. <a href=\"http://yourls."
+"org/htaccess\">Consulter la méthodologie</a>."
 
 #: admin/install.php:46 admin/install.php:67
 msgid "Install YOURLS"
@@ -383,9 +383,9 @@ msgid ""
 "YOURLS or access this page, simply rename or delete its directory, or rename "
 "the plugin file to something different than <code>plugin.php</code>."
 msgstr ""
-"Si l'activation d'un plugin vous empêche d'utiliser YOURLS ou d'accéder à "
-"cette page, renommer ou supprimer son répertoire, ou renommer le fichier "
-"plugin par un nom autre que <code>plugin.php</code>."
+"Si l&rsquo;activation d&rsquo;un plugin vous empêche d&rsquo;utiliser YOURLS "
+"ou d&rsquo;accéder à cette page, renommer ou supprimer son répertoire, ou "
+"renommer le fichier plugin par un nom autre que <code>plugin.php</code>."
 
 #: admin/plugins.php:159
 msgid "More plugins"
@@ -432,8 +432,8 @@ msgid ""
 "The <span>Instant Bookmarklets</span> will pop the short URL without leaving "
 "the page you are viewing."
 msgstr ""
-"L'<span>Instantané</span> affichera une URL courte sans quitter la page que "
-"vous êtes en train de visiter."
+"L&rsquo;<span>Instantané</span> affichera une URL courte sans quitter la "
+"page que vous êtes en train de visiter."
 
 #: admin/tools.php:24
 msgid ""
@@ -449,16 +449,16 @@ msgid ""
 "keyword first."
 msgstr ""
 "Les <span>marque-pages personnalisés</span> vous demanderont un mot clé "
-"personnalisé d'abord."
+"personnalisé d&rsquo;abord."
 
 #: admin/tools.php:30
 msgid ""
 "With the Standard Bookmarklets you will also get a <span>Quick Share</span> "
 "tool box to make posting to Twitter, Facebook or Friendfeed a snap."
 msgstr ""
-"Avec les marque-pages Standard, vous aurez également accès à l'outil de "
-"<span>Partage Rapide</span> vous permettant de poster sur Twitter, Facebook "
-"ou Frienfeed en un éclair."
+"Avec les marque-pages Standard, vous aurez également accès à l&rsquo;outil "
+"de <span>Partage Rapide</span> vous permettant de poster sur Twitter, "
+"Facebook ou Frienfeed en un éclair."
 
 #: admin/tools.php:32
 msgid ""
@@ -477,8 +477,8 @@ msgstr "Les Marque-pages"
 #: admin/tools.php:37
 msgid "Click and drag links to your toolbar (or right-click and bookmark it)"
 msgstr ""
-"Cliquez et déplacez les liens dans votre barre d'outils (ou clic droit puis "
-"enregistez dans vos favoris)"
+"Cliquez et déplacez les liens dans votre barre d&rsquo;outils (ou clic droit "
+"puis enregistez dans vos favoris)"
 
 #: admin/tools.php:43
 msgid "Standard (new page)"
@@ -494,7 +494,7 @@ msgstr "Simple"
 
 #: admin/tools.php:50 admin/tools.php:51 admin/tools.php:55 admin/tools.php:56
 msgid "Drag to your toolbar!"
-msgstr "Déplacer dans votre barre d'outils !"
+msgstr "Déplacer dans votre barre d&rsquo;outils !"
 
 #: admin/tools.php:50
 msgid "Shorten"
@@ -528,8 +528,8 @@ msgid ""
 "current URL (right before its 'http://' part) and hit enter."
 msgstr ""
 "Lorsque vous visitez une page, vous pouvez préfixer son URL : dans la bar "
-"d'adresse de votre navigateur, ajoutez \"<span>%s</span>\" au début de l'URL "
-"(juste avant le 'http://') et appuyez sur Entrée."
+"d&rsquo;adresse de votre navigateur, ajoutez \"<span>%s</span>\" au début de "
+"l&rsquo;URL (juste avant le <code>http://</code>) et appuyez sur Entrée."
 
 #: admin/tools.php:66
 msgid ""
@@ -543,15 +543,15 @@ msgstr " (ce qui semble être le cas ici)"
 
 #: admin/tools.php:74
 msgid "Secure passwordless API call"
-msgstr "Utilisation de l'API sécurisée sans mot de passe"
+msgstr "Utilisation de l&rsquo;API sécurisée sans mot de passe"
 
 #: admin/tools.php:77
 msgid ""
 "YOURLS allows API calls the old fashioned way, using <tt>username</tt> and "
 "<tt>password</tt> parameters."
 msgstr ""
-"YOURLS permet d'utiliser son API de manière traditionnelle, en utilisant vos "
-"<tt>identifiant</tt> et <tt>mot de passe</tt>."
+"YOURLS permet d&rsquo;utiliser son API de manière traditionnelle, en "
+"utilisant vos <tt>identifiant</tt> et <tt>mot de passe</tt>."
 
 #: admin/tools.php:79
 msgid ""
@@ -559,9 +559,9 @@ msgid ""
 "make API calls without using your login or your password, using a secret "
 "signature token."
 msgstr ""
-"Si cela vous embête d'envoyer ces informations sensibles dans la nature, "
-"vous pouvez également utiliser l'API sans utiliser votre identifiant et mot "
-"de passe, grâce à une signature secrète."
+"Si cela vous embête d&rsquo;envoyer ces informations sensibles dans la "
+"nature, vous pouvez également utiliser l&rsquo;API sans utiliser votre "
+"identifiant et mot de passe, grâce à une signature secrète."
 
 #: admin/tools.php:83
 #, php-format
@@ -570,15 +570,15 @@ msgstr "Votre signature secrète : <strong><code>%s</code></strong>"
 
 #: admin/tools.php:84
 msgid "(It's a secret. Keep it secret) "
-msgstr "(C'est un secret. Gardez le pour vous)"
+msgstr "(C&rsquo;est un secret. Gardez le pour vous)"
 
 #: admin/tools.php:87
 msgid ""
 "This signature token can only be used with the API, not with the admin "
 "interface."
 msgstr ""
-"Cette signature secrète peut être utilisée uniquement avec l'API, et non "
-"pour se connecter à l'interface d'administration."
+"Cette signature secrète peut être utilisée uniquement avec l&rsquo;API, et "
+"non pour se connecter à l&rsquo;interface d&rsquo;administration."
 
 #: admin/tools.php:90
 msgid "Usage of the signature token"
@@ -592,7 +592,7 @@ msgstr ""
 
 #: admin/tools.php:95
 msgid "Usage of a time limited signature token"
-msgstr "Utilisation d'une signature à validité limitée dans le temps"
+msgstr "Utilisation d&rsquo;une signature à validité limitée dans le temps"
 
 #: admin/tools.php:98 admin/tools.php:100
 msgid "actual value:"
@@ -618,7 +618,8 @@ msgstr "Cette URL serait valide pendant seulement %s secondes"
 #: admin/tools.php:111
 #, php-format
 msgid "See the <a href=\"%s\">API documentation</a> for more"
-msgstr "Voir la <a href=\"%s\">documentation API</a> pour plus d'informations"
+msgstr ""
+"Voir la <a href=\"%s\">documentation API</a> pour plus d&rsquo;informations"
 
 #: admin/upgrade.php:9 admin/upgrade.php:13
 msgid "Upgrade YOURLS"
@@ -632,24 +633,24 @@ msgstr ""
 
 #: admin/upgrade.php:51
 msgid "Your current installation needs to be upgraded."
-msgstr "En l'état actuel, la mise à jour est fortement conseillée."
+msgstr "En l&rsquo;état actuel, la mise à jour est fortement conseillée."
 
 #: admin/upgrade.php:52
 msgid ""
 "Please, pretty please, it is recommended that you <strong>backup</strong> "
 "your database<br/>(you should do this regularly anyway)"
 msgstr ""
-"S'il vous plaît, <strong>s'il vous plaît</strong>, il est recommandé de "
-"<strong>sauvegarder</strong> votre base de données<br/>(ce que vous devriez "
-"faire régulièrement de toutes façons)"
+"S&rsquo;il vous plaît, <strong>s&rsquo;il vous plaît</strong>, il est "
+"recommandé de <strong>sauvegarder</strong> votre base de données<br/>(ce que "
+"vous devriez faire régulièrement de toutes façons)"
 
 #: admin/upgrade.php:53
 msgid ""
 "Nothing awful <em>should</em> happen, but this doesn't mean it <em>won't</"
 "em> happen, right? ;)"
 msgstr ""
-"Rien d'horrible ne <em>devrait</em> arriver, mais cela ne veut pas dire que "
-"rien d'horrible ne <em>va</em> arriver, n'est-ce pas? ;)"
+"Rien d&rsquo;horrible ne <em>devrait</em> arriver, mais cela ne veut pas "
+"dire que rien d&rsquo;horrible ne <em>va</em> arriver, n&rsquo;est-ce pas? ;)"
 
 #: admin/upgrade.php:54
 msgid ""
@@ -664,8 +665,8 @@ msgid ""
 "If everything goes too fast and you cannot read, <span class=\"success"
 "\">good for you</span>, let it go :)"
 msgstr ""
-"Si tout va trop vite et que vous n'avez pas le temps de lire, <span class="
-"\"success\">tant mieux</span>, laissez faire :)"
+"Si tout va trop vite et que vous n&rsquo;avez pas le temps de lire, <span "
+"class=\"success\">tant mieux</span>, laissez faire :)"
 
 #: admin/upgrade.php:56
 msgid "Once you are ready, press \"Upgrade\" !"
@@ -682,7 +683,8 @@ msgstr "Votre installation est maintenant à jour !"
 #: admin/upgrade.php:78
 #, php-format
 msgid "Go back to <a href=\"%s\">the admin interface</a>"
-msgstr "Retournez à l'<a href=\"%s\">interface d'administration</a>"
+msgstr ""
+"Retournez à l&rsquo;<a href=\"%s\">interface d&rsquo;administration</a>"
 
 #: includes/functions-auth.php:18
 msgid "Logged out successfully"
@@ -718,7 +720,7 @@ msgid ""
 "details"
 msgstr ""
 "Voir <a href=\"http://yourls.org/userpassword\">UsernamePassword</a> pour "
-"plus d'informations"
+"plus d&rsquo;informations"
 
 #: includes/functions-html.php:141
 #, php-format
@@ -734,7 +736,7 @@ msgstr "Motorisé par %s"
 
 #: includes/functions-html.php:172
 msgid "Enter the URL"
-msgstr "Entrer l'URL"
+msgstr "Entrer l&rsquo;URL"
 
 #: includes/functions-html.php:173
 msgid "Optional "
@@ -746,7 +748,7 @@ msgstr "URL courte personnalisée"
 
 #: includes/functions-html.php:175
 msgid "Shorten The URL"
-msgstr "Raccourcir l'URL"
+msgstr "Raccourcir l&rsquo;URL"
 
 #: includes/functions-html.php:209 includes/functions-html.php:221
 #: includes/functions-html.php:608
@@ -881,7 +883,7 @@ msgstr "Annuler"
 
 #: includes/functions-html.php:468
 msgid "Cancel editing"
-msgstr "Annuler l'édition"
+msgstr "Annuler l&rsquo;édition"
 
 #: includes/functions-html.php:470
 msgid "Error, URL not found"
@@ -901,7 +903,7 @@ msgstr "Lien inhabituel"
 
 #: includes/functions-html.php:606
 msgid "Original URL"
-msgstr "URL d'origine"
+msgstr "URL d&rsquo;origine"
 
 #: includes/functions-html.php:610
 msgid "Actions"
@@ -934,11 +936,11 @@ msgstr "Aide"
 
 #: includes/functions-html.php:713
 msgid "Go to the admin interface"
-msgstr "Aller à l'interface d'administration"
+msgstr "Aller à l&rsquo;interface d&rsquo;administration"
 
 #: includes/functions-html.php:714
 msgid "Admin interface"
-msgstr "Interface d'administration"
+msgstr "Interface d&rsquo;administration"
 
 #: includes/functions-html.php:720
 msgid "Tools"
@@ -946,7 +948,7 @@ msgstr "Outils"
 
 #: includes/functions-html.php:848
 msgid "Today"
-msgstr "Aujourd'hui"
+msgstr "Aujourd&rsquo;hui"
 
 #: includes/functions-html.php:849
 msgid "Close"
@@ -1261,8 +1263,8 @@ msgid ""
 "This page does not exist. Maybe a plugin you thought was activated is "
 "inactive?"
 msgstr ""
-"Cette page n'existe pas. Un plugin que vous pensiez actif est peut-être "
-"désactivé ?"
+"Cette page n&rsquo;existe pas. Un plugin que vous pensiez actif est peut-"
+"être désactivé ?"
 
 #: includes/functions-plugins.php:539
 msgid "Invalid link"
@@ -1274,13 +1276,14 @@ msgstr "URL manquante ou invalide"
 
 #: includes/functions.php:202
 msgid "URL is a short URL"
-msgstr "L'URL est une URL courte"
+msgstr "L&rsquo;URL est une URL courte"
 
 #: includes/functions.php:234
 #, php-format
 msgid "Short URL %s already exists in database or is reserved"
 msgstr ""
-"L'URL courte %s existe déjà dans la base de données ou bien est réservée"
+"L&rsquo;URL courte %s existe déjà dans la base de données ou bien est "
+"réservée"
 
 #. //translators: eg "http://someurl/ added to DB"
 #: includes/functions.php:240 includes/functions.php:268
@@ -1306,7 +1309,7 @@ msgstr "Erreur lors de la mise à jour de %s (URL courte : %s)"
 
 #: includes/functions.php:345
 msgid "URL or keyword already exists in database"
-msgstr "L'URL ou le mot clé existe déjà dans la base de données"
+msgstr "L&rsquo;URL ou le mot clé existe déjà dans la base de données"
 
 #: includes/functions.php:409
 msgid "DB config missing, or could not find DB class"
@@ -1322,7 +1325,7 @@ msgid ""
 "if you are not redirected after 10 seconds, please <a href=\"%s\">click "
 "here</a>"
 msgstr ""
-"Si vous n'êtes pas redirigé après 10 secondes, merci de <a href=\"%s"
+"Si vous n&rsquo;êtes pas redirigé après 10 secondes, merci de <a href=\"%s"
 "\">cliquer ici</a>"
 
 #: includes/functions.php:732
@@ -1332,7 +1335,8 @@ msgstr "Merci de <a href=\"%s\">cliquer ici</a>"
 
 #: includes/functions.php:1236
 msgid "Too many URLs added too fast. Slow down please."
-msgstr "Trop d'URL ajoutées trop vite. Levez le pied s'il vous plaît."
+msgstr ""
+"Trop d&rsquo;URL ajoutées trop vite. Levez le pied s&rsquo;il vous plaît."
 
 #: includes/functions.php:1236
 msgid "Forbidden"
