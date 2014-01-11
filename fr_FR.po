@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YOURLS 1.7\n"
 "POT-Creation-Date: 2014-01-11 11:50+0100\n"
-"PO-Revision-Date: 2014-01-11 12:10+0100\n"
+"PO-Revision-Date: 2014-01-11 22:06+0100\n"
 "Last-Translator: Ozh <ozh[at]ozh.org>\n"
 "Language-Team: \n"
 "Language: Français\n"
@@ -245,7 +245,7 @@ msgstr "URL courte créée, mais impossible de rediriger vers %s !"
 
 #: admin/index.php:219
 msgid "Unknown \"Share\" bookmarklet"
-msgstr "Bookmarklet de partage inconnue"
+msgstr "Bookmarklet de partage inconnu"
 
 #: admin/index.php:272
 #, php-format
@@ -414,14 +414,14 @@ msgstr "Outils YOURLS sympas"
 
 #: admin/tools.php:13
 msgid "Bookmarklets"
-msgstr "Marque-pages"
+msgstr "Bookmarklets"
 
 #: admin/tools.php:15
 msgid ""
 "YOURLS comes with handy <span>bookmarklets</span> for easier link shortening "
 "and sharing."
 msgstr ""
-"YOURLS inclut <span>quatre marque-pages</span> pratiques pour raccourcir "
+"YOURLS inclut quatre <span>bookmarklets</span> pratiques pour raccourcir "
 "facilement des liens."
 
 #: admin/tools.php:17
@@ -433,23 +433,23 @@ msgid ""
 "The <span>Standard Bookmarklets</span> will take you to a page where you can "
 "easily edit or delete your brand new short URL."
 msgstr ""
-"Le <span>Standard</span> vous dirigera vers une page où vous pourrez "
-"facilement éditer ou supprimer votre nouvelle URL courte."
+"Les <span>Bookmarklets standards</span> vous dirigeront vers une page où "
+"vous pourrez facilement éditer ou supprimer votre nouvelle URL courte."
 
 #: admin/tools.php:22
 msgid ""
 "The <span>Instant Bookmarklets</span> will pop the short URL without leaving "
 "the page you are viewing."
 msgstr ""
-"L'<span>Instantané</span> affichera une URL courte sans quitter la page que "
-"vous êtes en train de visiter."
+"Les <span>Bookmarklets instantanés</span> afficheront une URL courte sans "
+"quitter la page que vous êtes en train de visiter."
 
 #: admin/tools.php:24
 msgid ""
 "The <span>Simple Bookmarklets</span> will generate a short URL with a random "
 "or sequential keyword."
 msgstr ""
-"Les <span>marque-pages simples</span> généreront une URL courte avec un mot "
+"Les <span>Bookmarklets simples</span> généreront une URL courte avec un mot "
 "clé aléatoire ou séquentiel."
 
 #: admin/tools.php:26
@@ -457,7 +457,7 @@ msgid ""
 "The <span>Custom Keyword Bookmarklets</span> will prompt you for a custom "
 "keyword first."
 msgstr ""
-"Les <span>marque-pages personnalisés</span> vous demanderont un mot clé "
+"Les <span>Bookmarklets personnalisés</span> vous demanderont un mot clé "
 "personnalisé d'abord."
 
 #: admin/tools.php:30
@@ -472,7 +472,7 @@ msgstr ""
 
 #: admin/tools.php:33
 msgid "The Bookmarklets"
-msgstr "Les Marque-pages"
+msgstr "Les Bookmarklets"
 
 #: admin/tools.php:35 admin/tools.php:62
 msgid "Click and drag links to your toolbar (or right-click and bookmark it)"
@@ -495,7 +495,7 @@ msgstr "Simple"
 #: admin/tools.php:48 admin/tools.php:49 admin/tools.php:53 admin/tools.php:54
 #: admin/tools.php:68 admin/tools.php:70 admin/tools.php:72
 msgid "Drag to your toolbar!"
-msgstr "Déplacer dans votre barre d'outils !"
+msgstr "Déplacer dans votre barre d'outils&nbsp;!"
 
 #: admin/tools.php:48
 msgid "Shorten"
@@ -519,16 +519,17 @@ msgstr "Raccourci personnalisé instantané"
 
 #: admin/tools.php:59
 msgid "Social Bookmarklets"
-msgstr "Bookmarklet sociales"
+msgstr "Bookmarklet pour réseaux sociaux"
 
 #: admin/tools.php:61
 msgid "Create a short URL and share it on social networks, all in one click!"
 msgstr ""
-"Créez une URL courte et partagez la sur les réseaux sociaux, en un seul clic!"
+"Créez une URL courte et partagez la sur les réseaux sociaux, en un seul "
+"clic&nbsp;!"
 
 #: admin/tools.php:64
 msgid "Shorten and share:"
-msgstr "Raccourcir et partager:"
+msgstr "Raccourcir et partager&nbsp;:"
 
 #: admin/tools.php:68
 msgid "YOURLS &amp; Facebook"
@@ -713,7 +714,7 @@ msgstr "Retournez à l'<a href=\"%s\">interface d'administration</a>"
 #: includes/auth.php:53
 #, php-format
 msgid "Could not auto-encrypt passwords. Error was: \"%s\"."
-msgstr "Impossible de crypter les mots de passe. L'erreur était: \"%s\"."
+msgstr "Impossible de crypter les mots de passe. Erreur&nbsp;: \"%s\"."
 
 #: includes/auth.php:55
 #, php-format
@@ -1435,56 +1436,3 @@ msgid "view"
 msgid_plural "views"
 msgstr[0] "vue"
 msgstr[1] "vues"
-
-#~ msgid "Secure API"
-#~ msgstr "API sécurisée"
-
-#, fuzzy
-#~ msgid ""
-#~ "YOURLS allows API calls the old fashioned way, using <code>username</"
-#~ "code> and <code>password</code> parameters."
-#~ msgstr ""
-#~ "YOURLS permet d'utiliser son API de manière traditionnelle, en utilisant "
-#~ "vos <tt>identifiant</tt> et <tt>mot de passe</tt>."
-
-#, fuzzy
-#~ msgid "Your secret signature token: %s"
-#~ msgstr "Votre signature secrète : <strong><code>%s</code></strong>"
-
-#, fuzzy
-#~ msgid "It's a secret. Keep it secret!"
-#~ msgstr "(C'est un secret. Gardez le pour vous)"
-
-#, fuzzy
-#~ msgid "Please refer to the <a href=\"%s\">online documentation</a>"
-#~ msgstr ""
-#~ "Voir la <a href=\"%s\">documentation API</a> pour plus d'informations"
-
-#~ msgid ""
-#~ "With the Standard Bookmarklets you will also get a <span>Quick Share</"
-#~ "span> tool box to make posting to Twitter, Facebook or Friendfeed a snap."
-#~ msgstr ""
-#~ "Avec les marque-pages Standard, vous aurez également accès à l'outil de "
-#~ "<span>Partage Rapide</span> vous permettant de poster sur Twitter, "
-#~ "Facebook ou Frienfeed en un éclair."
-
-#~ msgid ""
-#~ "<strong>Notice</strong>: your password is stored as clear text in your "
-#~ "<tt>config.php</tt>"
-#~ msgstr ""
-#~ "<strong>Pour information</strong> : votre mot de passe est enregistré en "
-#~ "clair dans votre <tt>config.php</tt>"
-
-#~ msgid ""
-#~ "Did you know you can easily improve the security of your YOURLS install "
-#~ "by <strong>encrypting</strong> your password?"
-#~ msgstr ""
-#~ "Saviez-vous que vous pouvez facilement améliorer la sécurité de votre "
-#~ "installation de YOURLS en <strong>cryptant</strong> votre mot de passe ?"
-
-#~ msgid ""
-#~ "See <a href=\"http://yourls.org/userpassword\">UsernamePassword</a> for "
-#~ "details"
-#~ msgstr ""
-#~ "Voir <a href=\"http://yourls.org/userpassword\">UsernamePassword</a> pour "
-#~ "plus d'informations"
