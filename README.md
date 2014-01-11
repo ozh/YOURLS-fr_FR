@@ -4,7 +4,9 @@
 
 ## Version actuelle
 
-Pour YOURLS 1.6
+Pour YOURLS **1.7**
+
+(consultez les [archives](https://github.com/ozh/YOURLS-fr_FR/releases) pour les anciennes version)
 
 
 ## Comment l'utiliser ?
