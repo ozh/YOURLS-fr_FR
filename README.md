@@ -4,7 +4,7 @@
 
 ## Version actuelle
 
-Pour YOURLS **1.7**
+Pour YOURLS **1.8**
 
 (consultez les [archives](https://github.com/ozh/YOURLS-fr_FR/releases) pour les anciennes version)
 
@@ -29,7 +29,7 @@ Merci d'avance :)
 
 ## Crédits
 
-Traduction maintenue par @ozh et @LeoColomb
+Traduction maintenue par [@ozh](https://github.com/ozh) et [@LeoColomb](https://github.com/LeoColomb)
 
 
 ## License
